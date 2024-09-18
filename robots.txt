@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oulxs.github.io/JqC/sitemap.JqC.gz
